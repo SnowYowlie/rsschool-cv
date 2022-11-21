@@ -7,7 +7,7 @@
 * Discord: Catherine (@SnowYowlie) </br> 
 * Linkedin: [Catherine Krichkovskaya](https://www.linkedin.com/in/catherine-krichkovskaya-a594a2256/) </br>
 * Telegram: @SnowYowlie </br>
-* Git: [SnowYowlie](https://github.com/SnowYowlie) </br>
+* Git: [SnowYowlie](https://snowyowlie.github.io/rsschool-cv/) </br>
 ***
 ## Summary
 Working as an engineer-constructor since 01.06.2022 in "Regula". I am engaged in maintaining design documentation. </br>
